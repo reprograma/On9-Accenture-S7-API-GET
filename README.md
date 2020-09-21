@@ -143,9 +143,7 @@ A utilização de Rest API é importante para adicionar diversas funcionalidades
 
  
 
-![Imagem que ilustra o fluxo de pagamento com api](
-
-https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5b0b27a-1767-41c0-8f71-f87cd5f82dc9_1600x1348.jpeg)
+![Imagem que ilustra o fluxo de pagamento com api](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5b0b27a-1767-41c0-8f71-f87cd5f82dc9_1600x1348.jpeg)
 
 *Imagem retirada [dessa](https://technically.substack.com/p/whats-an-api) explicação muito boa.*
 
