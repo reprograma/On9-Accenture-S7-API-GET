@@ -314,3 +314,4 @@ Bônus: Criar uma API GET mostrando apenas UM ID.
  
 
 Você pode se inspirar nesse vídeo [aqui](https://www.youtube.com/watch?v=ghTrp1x_1As) para criar sua API.
+[Apresentação da aula aqui](https://view.genial.ly/5f65f215aeba3b0d96caeb55/presentation-introducao-ao-nodejs)
