@@ -1,5 +1,12 @@
+# Documentação
+
+Projeto destinado para a criação de uma API com o método GET. 
+
+#### Ferramentas
+
+| Ferramenta | Função |
 | ------ | ------ |
-| Nodejs |  |
+| Nodejs | Node.js é uma plataforma para construir aplicações web escaláveis de alta performance usando JavaScript |
 | Express |  |
 | Json |  |
 
@@ -14,3 +21,5 @@ $ node server.js
 #### Como testar a API de estudantes?
 
 Utilizaremos o [Insomnia](https://insomnia.rest/) para testar as requisições e respostas. Com o servidor **rodando**, verifique a **porta** que você está utilizando, em seguida, acesse a ferramenta e vamos lá:
+
+
