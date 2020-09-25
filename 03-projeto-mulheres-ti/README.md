@@ -26,6 +26,12 @@ Utilizaremos o [Insomnia](https://insomnia.rest/) para testar as requisições e
 * Para testar, insira a url http://localhost:3000/biografias e clique em ```send``` ou ```enviar``` .
 * Se estiver tudo okay, aparecerá a response com o arquivo json com todos os estudantes. 
 
-*** API'S que pode ser testadas:***
+***API'S que pode ser testadas:***
+
+```
+http://localhost:3000/biografias
+http://localhost:3000/biografias/:id
+http://localhost:3000/biografias?nome=Ada Lovalece
+```
 
 
