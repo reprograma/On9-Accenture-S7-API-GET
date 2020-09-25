@@ -15,7 +15,7 @@ Após você clonar o projeto, certifique-se que você está na pasta que contém
 
 ```sh
 $ npm install
-$ node server.js
+$ npm start
 ```
 
 #### Como testar a API de Biografias?
@@ -26,6 +26,12 @@ Utilizaremos o [Insomnia](https://insomnia.rest/) para testar as requisições e
 * Para testar, insira a url http://localhost:3000/biografias e clique em ```send``` ou ```enviar``` .
 * Se estiver tudo okay, aparecerá a response com o arquivo json com todos os estudantes. 
 
-*** API'S que pode ser testadas:***
+***API'S que podem ser testadas:***
+
+```
+http://localhost:3000/biografias
+http://localhost:3000/biografias/:id
+http://localhost:3000/biografias?nome=Ada Lovalece
+```
 
 
