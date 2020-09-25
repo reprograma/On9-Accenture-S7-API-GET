@@ -3,13 +3,10 @@ const app = express();
 const porta = 3000;
 
 const biografias = require('./rotas/biografias')
-const todoList = require('./rotas/todolist')
 
 app.use('/api/',biografias)
-app.use(todoList)
 
 app.use(express.json())
-
 
 app.listen(porta, () => {
   console.log(`Servidor rodando na porta: ${porta}`)
