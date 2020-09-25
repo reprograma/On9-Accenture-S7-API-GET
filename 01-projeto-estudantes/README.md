@@ -7,8 +7,7 @@ Projeto destinado para a criação de uma API com o método GET.
 | Ferramenta | Função |
 | ------ | ------ |
 | Nodejs | Node.js é uma plataforma para construir aplicações web escaláveis de alta performance usando JavaScript |
-| Express |  |
-| Json |  |
+| Express |  Express.js ele é um framework do Node.js que nos auxilia na construção das nossas aplicações Web, baseado no protocolo HTTP.|
 
 #### Como rodar o projeto?
 Após você clonar o projeto, certifique-se que você está na pasta que contém o arquivo ```server.js```. Em seguida, siga os passos abaixo:
