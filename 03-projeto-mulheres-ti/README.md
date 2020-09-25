@@ -15,7 +15,7 @@ Após você clonar o projeto, certifique-se que você está na pasta que contém
 
 ```sh
 $ npm install
-$ node server.js
+$ npm start
 ```
 
 #### Como testar a API de Biografias?
